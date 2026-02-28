@@ -1,0 +1,9 @@
+{
+	"name": "azureproDTF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8e00fc4-8835-4c94-8cc5-68f396ee0e2d",
+		"tenantId": "ea6faad2-c894-404d-a7a3-a5d3030f4632"
+	}
+}
